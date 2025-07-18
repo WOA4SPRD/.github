@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-this project is for porting Windows on ARM32 to some Spreadtrum Devices
+this project is for porting Windows/Linux on ARM32 to some Spreadtrum Devices
 
 [EDK2 for Galaxy Tab E 7.0 for using as base](https://github.com/vicenteicc2008/edk2-goyavewifi)
 
