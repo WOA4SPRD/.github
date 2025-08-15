@@ -2,7 +2,7 @@
 
 this project is for porting Windows/Linux on ARM32 to some Spreadtrum Devices
 
-[EDK2 for Galaxy Tab E 7.0 (which uses Spreadtrum processor) for using as base](https://github.com/vicenteicc2008/edk2-goyavewifi)
+[EDK2 for Galaxy Tab E 7.0 (which uses Spreadtrum SC8830 processor) for using as base](https://github.com/vicenteicc2008/edk2-goyavewifi)
 
 <!--
 
